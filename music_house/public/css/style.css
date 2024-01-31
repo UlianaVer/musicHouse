@@ -1,0 +1,25 @@
+body{
+    font-family: FallingSkyMediumOblique-leLD;
+    src: url(../Fonts/FallingSkyMediumOblique-leLD.otf);
+}
+.navbar-dark .navbar-nav .nav-link {
+    color:#ffffff;
+}
+.navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand:hover {
+color: #ffffff;
+}
+.navbar-dark .navbar-brand{
+    color: #ffffff;
+}
+.carousel-control-prev-icon{
+    background-color: #ffffff;
+}
+.carousel-control-next-icon{
+    background-color: #ffffff;
+}
+h5{
+    color: #000000;
+}
+p{
+    color: rgb(255, 255, 255);
+}
